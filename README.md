@@ -1,11 +1,13 @@
-### Hi there 👋
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+## Hello, there! 👋, How are you doing
 I am a technology enthusiast and have passion for the backend technology used in the web pages. 
 
+#### Happy to contribute to the open source community 🎉
 
+Let's build something 🔥
 <!--
 **joshi008/joshi008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Here are some ideas to get you started:
 
