@@ -1,4 +1,8 @@
 ### Hi there 👋
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+I am a technology enthusiast and have passion for the backend technology used in the web pages. 
+
 
 <!--
 **joshi008/joshi008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
