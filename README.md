@@ -1,5 +1,5 @@
 ## Hello, there! 👋, How are you doing
-I am a technology enthusiast and have passion for the backend technology used in the web pages. 
+I am a technology enthusiast and have passion for the backend technology 
 
 #### Happy to contribute to the open source community 🎉
 
